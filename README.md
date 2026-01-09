@@ -1,2 +1,2 @@
 # TravelTide
-TravelTide MasterSchool Project
+TravelTide MSIT Project
